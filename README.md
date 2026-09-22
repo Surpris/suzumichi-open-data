@@ -1,10 +1,15 @@
 # suzumichi-open-data
 
-[すずみち](https://github.com/Surpris/suzumichi)(日陰・暑さを考慮した経路提案アプリ)向けに、公式のオープンデータでは代替できないデータを、開発者個人が作成・公開するリポジトリです。
+[すずみち](https://suzumichi-mvp.web.app)(日陰・暑さを考慮した経路提案アプリ)向けに、公式のオープンデータでは代替できないデータを、開発者個人が作成・公開するリポジトリです。
 
 ## wako_street_trees.csv
 
 埼玉県和光市(駅周辺)の街路樹データです。和光市には東京23区のような街路樹の個体単位オープンデータが存在しないため、開発者が[地理院地図](https://maps.gsi.go.jp/)上で2019年撮影の空中写真を底図としてアノテーション(現地確認済み)した位置・樹種データを、[東京都建設局「都道の街路樹」オープンデータ](https://catalog.data.metro.tokyo.lg.jp/dataset/t000014d2000000029)と同じ列構成のCSVへ変換して公開しています。
+
+- `wako_street_trees.csv`: 公開データ本体
+- `wako_street_tree_source/tree_map_wako.geojson`: 元データ(地理院地図アノテーション、295件のPoint FeatureCollection)
+- `wako_street_tree_source/png-tree-pair.json`: アイコンファイル名→樹種ラベルの対応表
+- `generate_wako_street_trees_csv.py`: 元データからCSVを生成するスクリプト
 
 ### 列構成
 
@@ -26,7 +31,14 @@
 
 ### 生成方法
 
-[suzumichi](https://github.com/Surpris/suzumichi)リポジトリの`batch/street_tree_wako_csv_export.py`が、元データ(`batch/data/wako_street_tree/tree_map_wako.geojson`・`png-tree-pair.json`)から生成しています。`batch/street_tree_import.py`(東京23区・和光市共通の取込バッチ)が`street_tree_sources.json`経由でこのCSVを直接ダウンロードして利用します。
+元データ(`wako_street_tree_source/tree_map_wako.geojson`・`png-tree-pair.json`)から、本リポジトリの`generate_wako_street_trees_csv.py`が生成しています。元データ・変換ロジックとも本リポジトリ内で完結しており(外部依存は`requests`のみ)、すずみちアプリ本体のリポジトリ(Private)を参照する必要はありません。
+
+```bash
+pip install -r requirements.txt
+python3 generate_wako_street_trees_csv.py
+```
+
+すずみちアプリ側(`batch/street_tree_import.py`)は、`street_tree_sources.json`経由で本リポジトリの`wako_street_trees.csv`を直接ダウンロードして利用します。
 
 ### 件数・樹種内訳(2026-09-22時点)
 

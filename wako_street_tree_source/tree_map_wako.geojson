@@ -1,0 +1,6790 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60159591076678,
+          35.78493166361987
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60179691820997,
+          35.78506368617603
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60199023735578,
+          35.78476766158418
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60205461037282,
+          35.78473284782102
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60215116989832,
+          35.78470238576554
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60222090733123,
+          35.784671923698426
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60232819569234,
+          35.78462840643931
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60241939079816,
+          35.78459359261518
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60252131474147,
+          35.784545723581914
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60260178101174,
+          35.78451526145473
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60267688286433,
+          35.78448915105052
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60274662029911,
+          35.78446739237428
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60287000191346,
+          35.784419523265015
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60281635773384,
+          35.78444128195436
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60295064738625,
+          35.784393267465774
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6030472069117,
+          35.78436280528017
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60313840201763,
+          35.784341046569295
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60323496154308,
+          35.78431058436372
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60334224990237,
+          35.7842844738923
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6034924536075,
+          35.78425836341299
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60372066572472,
+          35.78446182908786
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6037796743239,
+          35.784448773878026
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60394060686463,
+          35.78441831171372
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60399961546204,
+          35.784409608235734
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60426611469302,
+          35.78435997610238
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60451365248122,
+          35.78431923958151
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60466922060414,
+          35.784297480858754
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60513173914848,
+          35.78421447895714
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60520684100106,
+          35.7841970719563
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60536240912393,
+          35.78417096144831
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.605512612829,
+          35.784144850931
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60650514764734,
+          35.78395633792374
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6066553513524,
+          35.783925875570716
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6063924948703,
+          35.783834488441585
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60649978322954,
+          35.783804026041864
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60671972436944,
+          35.783764860082584
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60679482622197,
+          35.78374745298329
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6070829091592,
+          35.78370311586694
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60747619520794,
+          35.78375820328084
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6076103056579,
+          35.78373209262794
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60772832285448,
+          35.78371033374448
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60744400869947,
+          35.78362764993136
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60798989630854,
+          35.783668037527534
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60808645583222,
+          35.78364192684573
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60831176138987,
+          35.78360711258884
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60779677725935,
+          35.78356359474749
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60818301535772,
+          35.783493966150516
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60828493929915,
+          35.78346785541156
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60849951602125,
+          35.783433041078396
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6086068043823,
+          35.78341128211305
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60887843973705,
+          35.783502471881334
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.61026968311387,
+          35.78302499629551
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.61015166591727,
+          35.78305981080666
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/082.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60342256300618,
+          35.785044852844095
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60355130903832,
+          35.7849795772531
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60358349554684,
+          35.78507096306576
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60411695988546,
+          35.78644570971379
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60414914639392,
+          35.78651098410077
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60418133290244,
+          35.78658496167482
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60423026230376,
+          35.787261717017216
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60426244881228,
+          35.78733569389183
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60427317764783,
+          35.78743578014311
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60428927090118,
+          35.7875097568557
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60430570352287,
+          35.78760155269492
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6043378900314,
+          35.787705990169925
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60436632062147,
+          35.78781173231101
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60440373195598,
+          35.78791178022021
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60445201171785,
+          35.78808149038474
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60449012705936,
+          35.788173101564254
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60454377123898,
+          35.788307998973536
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6045920510026,
+          35.78841678703911
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60465971910907,
+          35.78857947721227
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/399.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60468654119984,
+          35.78864910135371
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/399.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60470855645724,
+          35.78874585214885
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/399.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60474083597978,
+          35.78880234619112
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/399.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60476229365275,
+          35.788867618642655
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/399.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60479448016122,
+          35.78893724253163
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/399.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60482130225017,
+          35.789019920820806
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/399.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60493089725463,
+          35.7892919994115
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/399.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6049803270074,
+          35.78942503100451
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/399.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60502860676928,
+          35.78955557483113
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/399.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60483210600302,
+          35.78835073773844
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60490720785555,
+          35.78832462859417
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60498767412588,
+          35.78830722249347
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60507350481402,
+          35.78828981638897
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60516469992172,
+          35.78826805875241
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60524516619205,
+          35.78824630111065
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60532563246232,
+          35.78822454346289
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60540609873271,
+          35.78819843427719
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6054804803863,
+          35.788180480613605
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60557167549217,
+          35.78815872294713
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6056575061803,
+          35.78814131681008
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60573797245064,
+          35.78811520759774
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6082186973602,
+          35.7875821338602
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6081328666703,
+          35.78759083699012
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60804167156442,
+          35.787599540119714
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60796120529403,
+          35.78761259481203
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60787001018815,
+          35.78762129793856
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60777881508045,
+          35.787630001064855
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60769834881012,
+          35.787643055752156
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60692046652593,
+          35.78781566138687
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60684000025554,
+          35.78783741914653
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6067541695674,
+          35.787854825350124
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60666833887933,
+          35.78788093464874
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.606587872609,
+          35.78790269239053
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60650744483297,
+          35.78792661028935
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60581543490667,
+          35.78809196888504
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6059924607007,
+          35.78805280503789
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.605895901177,
+          35.788074562733385
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6061533932414,
+          35.78800928963052
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60606756255322,
+          35.78803104733723
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6046012207387,
+          35.788091662775784
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60456903423204,
+          35.787991577350425
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/083.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.604552610506,
+          35.787820353819725
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60454188166858,
+          35.787785541393646
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60455797492375,
+          35.7878551662306
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60463711211077,
+          35.78804551980596
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60465320536593,
+          35.78809773826859
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6046746630371,
+          35.78814995669687
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60462638327522,
+          35.788006355935934
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60471221396335,
+          35.78819782355953
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60483552437972,
+          35.78826309083507
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60492135506786,
+          35.78824133319196
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60500182133825,
+          35.78822392707299
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60508765202633,
+          35.78820652095024
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60517348271446,
+          35.788184763291625
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6052539489848,
+          35.788163005626345
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60533441525513,
+          35.78814124795578
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60541488152546,
+          35.78811949027859
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60550071221536,
+          35.78810208413296
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60559190732124,
+          35.7880759749077
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60566700917383,
+          35.78805421721263
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60575820427977,
+          35.78804116259286
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60583867055004,
+          35.788019404888985
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60592450123994,
+          35.78800199872141
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60601033192808,
+          35.78798024100681
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6060907981984,
+          35.7879671863749
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60820230015423,
+          35.78751070320773
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60810574063055,
+          35.78751505477669
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60800381668736,
+          35.787528109482864
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60826667317122,
+          35.78749329692877
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60790725716362,
+          35.787536812618654
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60782679089334,
+          35.78754986732122
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60771950253223,
+          35.78756292202172
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60762830742453,
+          35.787580328285415
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60761159506552,
+          35.787657963028224
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60752576437562,
+          35.78767536927184
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6074452981053,
+          35.78769712706992
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60753649321293,
+          35.78760139271267
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6074613913604,
+          35.78762315053102
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60444762105408,
+          35.787484053305164
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60445298547188,
+          35.78751886586333
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60446907872523,
+          35.78755367840621
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60447980756078,
+          35.7875841393689
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60449053639815,
+          35.787627655009814
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60450126523375,
+          35.78767117062611
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60473977115737,
+          35.786893526695394
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6048095085922,
+          35.78687176867736
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60487388160738,
+          35.78685436225848
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6049489834599,
+          35.78683695583578
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6050455429854,
+          35.78681519780224
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6051398883577,
+          35.78678984821316
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60521591779758,
+          35.78677253583639
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60534897545915,
+          35.78674695994705
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60515049199216,
+          35.786725201888885
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60497883061413,
+          35.78677306960962
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6048822710905,
+          35.78679047604628
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60460332135318,
+          35.786847046939045
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6046623299506,
+          35.78674260833604
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60470524529467,
+          35.78666427929339
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60436020145295,
+          35.78629860356857
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6044300386987,
+          35.786281075585265
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60451050496897,
+          35.78626366903703
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6045584601453,
+          35.78633995431244
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60460137548938,
+          35.786418283674706
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6046442908352,
+          35.78650096458429
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60467111292417,
+          35.78657929378785
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6047894482263,
+          35.78672038700684
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60471434637378,
+          35.78680741921055
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60435493036726,
+          35.78698606933786
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6042422775884,
+          35.786655347201375
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60432274385875,
+          35.7866335891181
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60429055735023,
+          35.78679024718667
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60430665060363,
+          35.78689033412414
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60438175245616,
+          35.78706004646975
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60449440523496,
+          35.78703828849726
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60460169359607,
+          35.78699042093628
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6047541089564,
+          35.78697762222063
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60440369146522,
+          35.78730420161099
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60497383770968,
+          35.7869273428624
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60532788929953,
+          35.78688382683809
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60561519903888,
+          35.78667816294545
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60558301253218,
+          35.78672167908161
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60556155485926,
+          35.78683046931924
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60574295656784,
+          35.78671248850273
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60583951609158,
+          35.78669943366327
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6058877958552,
+          35.786608049722915
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60601654188736,
+          35.78666026912997
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6060970081577,
+          35.786686378821
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60617211001022,
+          35.78670378527667
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6059843553789,
+          35.78672989495267
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6060970081577,
+          35.78676035623111
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60621544000185,
+          35.78638366658201
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60617788907552,
+          35.786427182880175
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60624226209256,
+          35.78643588613649
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60625835534591,
+          35.78649245728229
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6062100755841,
+          35.7865359735209
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60628517743663,
+          35.78654902838714
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60624226209256,
+          35.786596896214704
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6063119995256,
+          35.78660995107094
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60629624437308,
+          35.78666955366549
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60636459062397,
+          35.78683263715932
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6064450568943,
+          35.78690226283099
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6065952605976,
+          35.786958833644874
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6068167119364,
+          35.786992395829145
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.606693330322,
+          35.787014153814894
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60740788332515,
+          35.78680654803112
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60743105926474,
+          35.78685728235769
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60745251693766,
+          35.78691385320285
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60808746048616,
+          35.78712629085621
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60793957981014,
+          35.786976189039436
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60781083377623,
+          35.78701100182005
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60731308993752,
+          35.786848640804564
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60719507274086,
+          35.7867877183037
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60709314879762,
+          35.78680947634548
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60632727216358,
+          35.78703776555335
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60610196660593,
+          35.787137852179114
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60593566964747,
+          35.787159610125045
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6058085838789,
+          35.78727828673503
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60569056668237,
+          35.78721301297823
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60547062554247,
+          35.78723477090291
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6055618206484,
+          35.7873435604382
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60569056668237,
+          35.7873174509631
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60577103295265,
+          35.787400130937996
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60533914260827,
+          35.78728674321722
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60537132911674,
+          35.78737812637725
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60551616840405,
+          35.78748256414585
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60539815120745,
+          35.78749997042715
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6052854984286,
+          35.78748256414585
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60516040292072,
+          35.78751450577265
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60565929379607,
+          35.78746663849846
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60646582117386,
+          35.787040148092345
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60655701628156,
+          35.78727948545928
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6068037795103,
+          35.78716199265968
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60477709622768,
+          35.78824143733698
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6048629269158,
+          35.78822403121809
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60501849503868,
+          35.78818921896877
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6050882324734,
+          35.78816746130471
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6052008852522,
+          35.78815440670431
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6052813515226,
+          35.78812394596014
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60537254662847,
+          35.78810653981476
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60545301289886,
+          35.788089133666304
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60553884391993,
+          35.78807129236294
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60562467460807,
+          35.78804518312687
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60569977646065,
+          35.788023425424086
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60579097156653,
+          35.78800601925738
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60587143783687,
+          35.787979909999905
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6059519041072,
+          35.78796250382369
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6060377347971,
+          35.78794509764367
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6061300517702,
+          35.78792210774843
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60644655243374,
+          35.787835076766
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60634999291005,
+          35.7878611860711
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60658144862583,
+          35.78780332955574
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60667800815128,
+          35.78778157178601
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60677993209458,
+          35.78775111089897
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60687112720046,
+          35.78772935311571
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/807.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6066189995521,
+          35.787820735766815
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60669946582425,
+          35.78780332955574
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60677993209458,
+          35.78777722023166
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6068443051098,
+          35.78775981401107
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60581721360506,
+          35.783518962113604
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60581097784865,
+          35.78345074719117
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6057944874873,
+          35.783374675574265
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.605778394234,
+          35.78328763961255
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60575693656102,
+          35.78317014091219
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60573547888993,
+          35.78308745653787
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60571938563476,
+          35.78300912389324
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60570865679915,
+          35.78293949481129
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6056332649651,
+          35.78255520578277
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60561678797495,
+          35.78246163795943
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6055838339958,
+          35.782334652879356
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6055673570068,
+          35.78222771791788
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6054951310873,
+          35.78193106037705
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60547903783396,
+          35.781861430350105
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60546294457885,
+          35.781787448380584
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6054468513255,
+          35.781713466341515
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60543075807215,
+          35.78164383612467
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60537963517106,
+          35.78149145819117
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60536354191595,
+          35.781434883486824
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60534744866254,
+          35.78136525302527
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60533135540743,
+          35.78129562250348
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60532062657182,
+          35.781230343833656
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60529965698748,
+          35.78115121743873
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6052835637323,
+          35.78108158672946
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60526747047896,
+          35.781007604033434
+        ]
+      },
+      "properties": {
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/081.png",
+        "_iconSize": [
+          10,
+          10
+        ],
+        "_opacity": 1,
+        "_iconAnchor": [
+          10,
+          10
+        ],
+        "_markerType": "Icon"
+      }
+    }
+  ]
+}
