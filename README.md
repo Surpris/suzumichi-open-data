@@ -15,12 +15,14 @@ OpenStreetMap(OSM)に由来する、歩行者向けの道路ネットワーク�
 
 ### 入手
 
-データの本体(GeoPackage)は大きいため、リポジトリには入れず、[Release](https://github.com/Surpris/suzumichi-open-data/releases)の添付ファイルで配ります。タグ名は`walk-network-v1-<YYYYMMDD>`(例: `walk-network-v1-20261021`)です。
+データの本体(GeoPackage)は大きいため、リポジトリには入れず、[Release](https://github.com/Surpris/suzumichi-open-data/releases)の添付ファイル(zipで圧縮)で配ります。タグ名は`walk-network-v1-<YYYYMMDD>`です。
+
+**準備中**: 最初のReleaseは、すずみちの本番の経路グラフを同じOSMの時点で作り直した後に公開します。
 
 | ファイル | 中身 |
 |---|---|
-| `suzumichi_walk_network_wako.gpkg` | 和光市 |
-| `suzumichi_walk_network_tokyo.gpkg` | 東京23区 |
+| `suzumichi_walk_network_wako.gpkg.zip` | 和光市(展開すると`suzumichi_walk_network_wako.gpkg`) |
+| `suzumichi_walk_network_tokyo.gpkg.zip` | 東京23区(展開すると約400MB) |
 | `suzumichi_walk_network_<area>.json` | メタデータ(件数・アルゴリズムの版・OSMの時点・ライセンス・出典・注記) |
 
 ### 形式
